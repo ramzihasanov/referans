@@ -1,0 +1,8 @@
+﻿Build started...
+1>------ Build started: Project: ConsoleApp1, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\hesen\OneDrive\İş masası\referans\ConsoleApp1\Program.cs(39,17,39,21): warning CS0168: The variable 'num1' is declared but never used
+1>C:\Users\hesen\OneDrive\İş masası\referans\ConsoleApp1\Program.cs(39,23,39,27): warning CS0168: The variable 'num2' is declared but never used
+1>ConsoleApp1 -> C:\Users\hesen\OneDrive\İş masası\referans\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+1>Done building project "ConsoleApp1.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
